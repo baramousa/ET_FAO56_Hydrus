@@ -12,6 +12,7 @@ Names of the columns that need to be in the weather csv are :
 - J: number of day in the year
 ##################################################################################################################################
 ##################################################################################################################################
+
 In the python script following parameters need to be determined:
 - path (string): the path to the project where the weather data are located
 - file_name (string): name of the weather.csv data, for example "Weather_GKVK_2017_2018_ir" 
