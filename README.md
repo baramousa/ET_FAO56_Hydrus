@@ -1,5 +1,5 @@
 # ET_FAO56_Hydrus
-Python code for calculating ET according to FAO56 and separate it into Evaporation and Transpiration based on LAI (leaf area index), An output file is produced which is an input for Hydrus1-d model
+Python code for calculating Evapotranspiration ET according to FAO56 and separate it into Evaporation and Transpiration based on LAI (leaf area index), An output file is produced which is an input for Hydrus1-d model
 
 The code read weather data from csv file similar to the one attached here. 
 Names of the columns that need to be in the weather csv are :
